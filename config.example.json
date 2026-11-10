@@ -1,0 +1,13 @@
+{
+  "root_folder": "",
+  "source_folder": "",
+  "operation": "pipeline",
+  "separator": "Một dòng trống",
+  "max_chars": "285000",
+  "start_index": "1",
+  "remove_chars": "\"*>“”",
+  "endings": ".!?。！？",
+  "mode": "Sau dấu kết thúc câu",
+  "encoding": "utf-8-sig",
+  "overwrite": false
+}
